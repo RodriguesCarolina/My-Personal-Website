@@ -54,8 +54,7 @@ sr.reveal('.skills__img',{delay: 600});
 sr.reveal('.languages__subtitle',{}); 
 sr.reveal('.languages__text',{}); 
 sr.reveal('.languages__data',{interval: 200}); 
-sr.reveal('.languages__img',{delay: 600});
-
+sr.reveal('..languages__img',{delay: 600});
 /*SCROLL WORK*/
 sr.reveal('.work__img',{interval: 200}); 
 
